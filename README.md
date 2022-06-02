@@ -14,7 +14,7 @@ Clone this repo to your desktop and run `npm install` to install all the depende
 
 ## Preview
 
-[https://hasancali.dev/marvel](https://hasancali.dev/marvel)
+[https://marvel.hasancali.dev](https://marvel.hasancali.dev)
 
 ## Usage
 
