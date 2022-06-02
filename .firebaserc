@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "angular-superheroes"
+  },
+  "targets": {
+    "angular-superheroes": {
+      "hosting": {
+        "marvel": [
+          "angular-superheroes"
+        ]
+      }
+    }
+  }
+}

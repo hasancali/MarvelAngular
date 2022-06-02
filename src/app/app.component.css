@@ -1,0 +1,4 @@
+.content {
+  background-image: url('../assets/background.png');
+  overflow: auto;
+}
